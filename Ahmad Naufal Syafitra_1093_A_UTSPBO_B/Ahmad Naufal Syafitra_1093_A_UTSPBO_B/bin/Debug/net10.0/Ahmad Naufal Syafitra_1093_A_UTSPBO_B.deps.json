@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ahmad Naufal Syafitra_1093_A_UTSPBO_B/1.0.0": {
+        "runtime": {
+          "Ahmad Naufal Syafitra_1093_A_UTSPBO_B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ahmad Naufal Syafitra_1093_A_UTSPBO_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
